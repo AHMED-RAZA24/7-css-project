@@ -1,0 +1,15 @@
+.border{
+   /* border: 2px solid black; */
+   margin: 0px;
+   border-color: blue;
+}
+.borde{
+    margin: 0px;
+    padding: 0px;
+    border-color: aqua;
+}
+.bord{
+    margin: 0px;
+    padding: 0px;
+    border-color: blue;
+}

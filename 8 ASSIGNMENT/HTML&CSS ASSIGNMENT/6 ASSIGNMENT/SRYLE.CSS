@@ -1,0 +1,45 @@
+h1{
+    text-align: center;
+    margin: 0px;
+    background-color: white;
+}
+p{
+    text-align: center;
+}
+.container{
+    margin: 0px;
+    padding: 0px;
+    background-color: burlywood;
+    border: 20px solid burlywood;
+}
+.blockinline{
+    display: flex;
+    justify-content: center;
+    border: 5px solid white;
+    height: 100px;
+    width: 100px;
+    flex-flow: center;
+}
+.inline{
+    display: flex;
+    justify-content: center;
+    border: 5px solid white;
+    height: 100px;
+    width: 100px;
+    flex-direction: column-reverse;
+}
+.black{
+    border: 5px solid black;
+}
+.silver{
+    border: 7px solid silver;
+}
+.button{
+    
+}
+.item{
+
+}
+.center{
+    display: flex;
+}
